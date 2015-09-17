@@ -24,6 +24,7 @@
     "ip": "^0.3.3"
   },
   "scripts": {
-    "start": "node src/index.js"
+    "start": "node src/index.js",
+    "postinstall": "git submodule update -i -r"
   }
 }
