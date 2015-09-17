@@ -1,0 +1,20 @@
+{
+  "name": "phina-games",
+  "version": "0.0.0",
+  "homepage": "https://github.com/phi-jp/phina-games",
+  "authors": [
+    "phi <phi1618jp@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "flick-arrow": "git@github.com:phi-jp/flick-arrow.git"
+  }
+}
