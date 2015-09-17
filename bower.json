@@ -15,7 +15,7 @@
   ],
   "dependencies": {
     "jquery": "~2.1.4",
-    
-    "flick-arrow": "https://github.com/phi-jp/flick-arrow.git"
+
+    "flick-arrow": "https://github.com/phi-jp/flick-arrow.git#feature/phina"
   }
 }
