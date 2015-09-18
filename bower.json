@@ -14,9 +14,7 @@
     "tests"
   ],
   "dependencies": {
-    "jquery": "~2.1.4",
-
-    "touch-the-color": "https://github.com/phi-jp/touch-the-color.git",
+    "touch-the-color": "https://github.com/phi-jp/touch-the-color.git#develop",
     "flick-arrow": "https://github.com/phi-jp/flick-arrow.git#feature/phina"
   }
 }
