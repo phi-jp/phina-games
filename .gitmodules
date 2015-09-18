@@ -1,3 +1,6 @@
 [submodule "games/flick-arrow"]
 	path = games/flick-arrow
 	url = git@github.com:phi-jp/flick-arrow.git
+[submodule "games/touch-the-color"]
+	path = games/touch-the-color
+	url = git@github.com:phi-jp/touch-the-color.git
