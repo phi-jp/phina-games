@@ -13,14 +13,14 @@ app.set('view engine', 'jade');
 
 // middleware
 app.use(logger('dev'));
-// app.use(require('less-middleware')(path.join(__dirname, '../games')));
 
-if (process.env.PORT) {
-  app.use(express.static(path.join(__dirname, '../bower_components')));
-}
-else {
+// if (process.env.PORT) {
+//   app.use(express.static(path.join(__dirname, '../bower_components')));
+// }
+// else {
+  app.use(require('less-middleware')(path.join(__dirname, '../games')));
   app.use(express.static(path.join(__dirname, '../games')));
-}
+// }
 
 // app.get('/', function(req, res, next) {
 //   res.render('index', { title: 'Express' });
