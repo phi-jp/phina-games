@@ -1,0 +1,22 @@
+{
+  "games": [
+    {
+      "title": "Flick Arrow",
+      "url": "flick-arrow/",
+      "description": "矢印の方向にフリックしよう♪",
+      "image": "https://raw.githubusercontent.com/phi-jp/phina.js/develop/assets/images/logo/logo_m.png"
+    },
+    {
+      "title": "Touch the color",
+      "url": "touch-the-color/",
+      "description": "順番に色をタッチ!",
+      "image": "https://raw.githubusercontent.com/phi-jp/phina.js/develop/assets/images/logo/logo_m.png"
+    },
+    {
+      "title": "Touch the kanji",
+      "url": "touch-the-kanji/",
+      "description": "意外と知らない!? 漢字になおすとどれかな?",
+      "image": "https://raw.githubusercontent.com/phi-jp/phina.js/develop/assets/images/logo/logo_m.png"
+    }
+  ]
+}
