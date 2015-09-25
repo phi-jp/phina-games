@@ -16,6 +16,7 @@
   "dependencies": {
     "touch-the-color": "https://github.com/phi-jp/touch-the-color.git#develop",
     "touch-the-kanji": "https://github.com/phi-jp/touch-the-kanji.git#develop",
-    "flick-arrow": "https://github.com/phi-jp/flick-arrow.git#feature/phina"
+    "flick-arrow": "https://github.com/phi-jp/flick-arrow.git#feature/phina",
+    "flick-arrow": "https://github.com/phi-jp/1111.git#develop"
   }
 }

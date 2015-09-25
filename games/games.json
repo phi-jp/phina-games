@@ -17,6 +17,12 @@
       "url": "touch-the-kanji/",
       "description": "意外と知らない!? 漢字になおすとどれかな?",
       "image": "https://raw.githubusercontent.com/phi-jp/phina.js/develop/assets/images/logo/logo_m.png"
+    },
+    {
+      "title": "1111",
+      "url": "1111/",
+      "description": "1111",
+      "image": "https://raw.githubusercontent.com/phi-jp/phina.js/develop/assets/images/logo/logo_m.png"
     }
   ]
 }
