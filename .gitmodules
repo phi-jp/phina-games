@@ -7,3 +7,6 @@
 [submodule "games/touch-the-kanji"]
 	path = games/touch-the-kanji
 	url = git@github.com:phi-jp/touch-the-kanji.git
+[submodule "games/1111"]
+	path = games/1111
+	url = git@github.com:phi-jp/1111.git
